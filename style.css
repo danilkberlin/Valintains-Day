@@ -1,0 +1,20 @@
+body{
+    background-color: pink;
+}
+
+button{
+    background: #F5E6CA;
+    padding: 25px 60px;
+    margin: 25px;
+    border: none;
+    color: red;
+}
+
+#text{
+    font-size: 36px;
+    color: #fff;
+}
+
+.love-date{
+    margin: 100px 0;
+}
